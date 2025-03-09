@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const HomePage = () => {
   return (
-    <div>
+    <div className="w-full h-screen mt-20">
      <Button>Testing</Button>
     </div>
   );
